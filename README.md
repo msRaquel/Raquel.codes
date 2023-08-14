@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @msRaquel
+- 👋 Hi, I’m @Raquel.codes
 - 👀 I’m interested in reading, science, and mathematics
 - 🌱 I’m currently learning Python, Golang and C++
 - 💞️ I’m looking to collaborate on beginner projects to strengthen understanding of computers and software
